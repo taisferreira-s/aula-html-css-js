@@ -1,0 +1,64 @@
+budy{
+    color:black;
+    font-family: Verdana;
+    margin:10% 50%;
+    
+}
+
+.curso, .novo-curso{
+    background-color: coral;
+}
+.novo-curso{
+    color:crimson;
+
+}
+
+h1{
+    color: rgb(97, 7, 70);
+    font-family: URW Chancery L, cursive;
+}
+
+h2{
+    color:brown;
+    font-family: Verdana, cursive;
+}
+
+div{
+    text-align: center
+}
+
+img{
+    border-radius: 15px;
+}
+
+strong{
+    color:crimson
+}
+
+#titulo{
+    text-align: center;
+    color:palevioletred;
+    font-family: arial, cursive;
+}
+
+#contato{
+    background-color: plum;
+}
+
+p.final-pagina#rodape{
+    background-color:chocolate;
+    border: 3px solid black;
+    padding: 30px;
+}
+
+#cursos{
+    display:inline-block;
+}
+
+#principal p.principal{
+    color:yellowgreen;
+}
+
+main > article section > p.cursos{
+    color:teal;
+}
